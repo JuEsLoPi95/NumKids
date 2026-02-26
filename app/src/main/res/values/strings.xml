@@ -7,10 +7,12 @@
     <string name="user_name">Usuario</string>
     <string name="password">Contraseña</string>
     <string name="btn_login">Iniciar Sesión</string>
-    <string name="btn_Register">Registrar</string>
+    <string name="msj_Register">¿ Aun no estas registrado ?</string>
+    <string name="lbl_Register">Registrarse</string>
 
     <!--
      Inicio
      -->
     <string name="wellcome">Bienvenidos</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
