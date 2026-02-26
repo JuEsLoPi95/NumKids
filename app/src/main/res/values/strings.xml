@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+     Login aplicación
+     -->
+    <string name="app_name">NumKids_QAS</string>
+    <string name="user_name">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="btn_Register">Registrar</string>
+
+    <!--
+     Inicio
+     -->
+    <string name="wellcome">Bienvenidos</string>
+</resources>
